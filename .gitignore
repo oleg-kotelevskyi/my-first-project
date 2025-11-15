@@ -1,4 +1,9 @@
 # Logs
+*.txt
+my-passwords.txt
+drafts/*
+!plans.txt
+secret.md
 logs
 *.log
 npm-debug.log*
